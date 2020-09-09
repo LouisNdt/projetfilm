@@ -28,7 +28,6 @@
               "src/assets"
             ],
             "styles": [
-              
               "src/styles.scss"
             ],
             "scripts": []
@@ -124,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cinema"
+    }
+  },
+  "defaultProject": "cinema",
+  "cli": {
+    "analytics": "424cee93-783b-4415-be24-ee0be7394a1e"
+  }
 }
